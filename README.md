@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Samir Sanyal (@SamirSanyal312) — he/him
 
 🎯 **Currently pursuing my MS in Computer Science at Indiana University Bloomington**  
-🔍 **Actively seeking Summer 2025 internships** in:  
-Cloud Computing · DevOps · Machine Learning · Computer Vision · Infrastructure Automation
+🔍 **Actively seeking Full Time Opportunities** in:  
+Cloud Computing · DevOps · Machine Learning · Computer Vision · Infrastructure Automation · Artificial Intelligence · Deep Learning · Cybersecurity
 
 ---
 
 ## 🔧 About Me
 
-- 💼 Former **System Engineer at Dr. Lal PathLabs**, where I improved cloud efficiency by 65% and saved $16.5k annually on AWS & Azure.
+- 💼 Former **System Engineer at Dr. Lal PathLabs**, where I improved cloud efficiency by 65% and saved $16.5k annually on AWS & Azure. Former **SDE Intern at Dover Corporation**, where I automated Azure cost allocation pipelines using Python, Azure SDK, and DevOps YAML pipelines, enabling monthly OpCo-level financial reporting.
 - 🚀 Passionate about building **scalable cloud-native architectures**, and automating workflows using Python, SQL, PowerShell.
 - 🌩️ Hands-on with **AWS, Azure, Docker, Kubernetes, Jenkins, GitHub Actions**, and CI/CD pipelines.
 - 🤖 Strong foundation in **AI/ML**, with experience in image processing, object detection, and embedded systems.
