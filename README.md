@@ -8,7 +8,8 @@ Cloud Computing · DevOps · Machine Learning · Computer Vision · Infrastructu
 
 ## 🔧 About Me
 
-- 💼 Former **System Engineer at Dr. Lal PathLabs**, where I improved cloud efficiency by 65% and saved $16.5k annually on AWS & Azure. Former **SDE Intern at Dover Corporation**, where I automated Azure cost allocation pipelines using Python, Azure SDK, and DevOps YAML pipelines, enabling monthly OpCo-level financial reporting.
+- 💼 Former **System Engineer at Dr. Lal PathLabs**, where I improved cloud efficiency by 65% and saved $16.5k annually on AWS & Azure.
+- Former **SDE Intern at Dover Corporation**, where I automated Azure cost allocation pipelines using Python, Azure SDK, and DevOps YAML pipelines, enabling monthly OpCo-level financial reporting.
 - 🚀 Passionate about building **scalable cloud-native architectures**, and automating workflows using Python, SQL, PowerShell.
 - 🌩️ Hands-on with **AWS, Azure, Docker, Kubernetes, Jenkins, GitHub Actions**, and CI/CD pipelines.
 - 🤖 Strong foundation in **AI/ML**, with experience in image processing, object detection, and embedded systems.
